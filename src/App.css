@@ -7,3 +7,10 @@ button {
   background: none;
   border: none;
 }
+
+
+.clearStuff {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
